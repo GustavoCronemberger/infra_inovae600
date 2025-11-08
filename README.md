@@ -46,7 +46,7 @@ O objetivo foi aplicar conceitos práticos de redes de computadores, garantindo 
 
 ---
 
-## ✅ Resultados
+## Resultados
 
 - Rede funcional e escalável para **600+ dispositivos (apenas modificar a máscara de rede**.  
 - Segmentação lógica eficiente entre setores.  
